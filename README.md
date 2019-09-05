@@ -3,6 +3,8 @@ Trial project for docker evaluation and testing
 
 # Tech Stack
  - docker
+ - docker-compose
+ - python
  
 # Commands
  - docker --version
@@ -11,4 +13,8 @@ Trial project for docker evaluation and testing
  - docker container ls
  - docker-compose --version
  - sudo docker-compose up
- 
+
+# Todo
+ - setup network communication between containers
+ - test local file write and read
+ - test deploy to cloud
